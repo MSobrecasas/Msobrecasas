@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Mary, a FullStack Developer Student
+- 🌱 I’m currently learning React, Angular, JavaScript
+- 📫 How to reach me: sns.mary@hotmail.com 
+https://www.linkedin.com/in/mariasobrecasas/
 
+
+<a href="https://github.com/MSobrecasas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSobrecasas&theme=radical&hide=glsl,python" />
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MSobrecasas&&show_icons=true&theme=radical&line_height=27&v=5" alt="Mary's GitHub Stats" />
 <!--
 **MSobrecasas/Msobrecasas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
