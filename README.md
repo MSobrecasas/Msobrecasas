@@ -1,3 +1,5 @@
+![portadalink](https://user-images.githubusercontent.com/38269975/210187733-6b92d85f-b0b8-4765-b921-462a3a2a03ac.png)
+
 ### Hi there 👋 I'm Mary, a FullStack Developer Student
 - 🌱 I’m currently learning React, Angular, JavaScript
 - 📫 How to reach me: sns.mary@hotmail.com 
